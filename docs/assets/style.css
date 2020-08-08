@@ -1,18 +1,7 @@
 body{
-    padding-bottom: 100px;
-    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-top: 50px;
     margin: 50px;
-}
-
-.tableheader{
-    height: 50px;
-    font-size: 20px;
-    font-weight: 700;
-    text-align: center;
-    color: grey;
-    border: solid 3px grey;
-
-    
 }
 
 .myrow{
@@ -39,4 +28,18 @@ body{
 
 .myform{
     max-width: 750px;
+}
+
+.photo {
+    display: table;
+}
+.photo a {
+    vertical-align: middle;
+    display: table-cell;
+}
+.photo img {
+    display: block;
+    height: auto;
+    width: 100%;
+    vertical-align: middle;
 }
