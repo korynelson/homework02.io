@@ -21,25 +21,7 @@ body{
     width: 500px;
 }
 
-.figure{
-    font-style: none;
-    font-color: grey;
-}
-
 .myform{
     max-width: 750px;
 }
 
-.photo {
-    display: table;
-}
-.photo a {
-    vertical-align: middle;
-    display: table-cell;
-}
-.photo img {
-    display: block;
-    height: auto;
-    width: 100%;
-    vertical-align: middle;
-}
