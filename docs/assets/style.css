@@ -5,18 +5,18 @@ body{
 }
 
 .myrow{
-    border: solid 3px grey;
-    border: solid 3px grey;
+    border: solid 3px darkgreen;
     font-style: none;
     font-color: grey;
+    padding: 2px;
 }
 
 .mycol{
-    border: solid 3px grey;
+    border: solid 3px darkred;
     font-style: none;
     font-color: grey;
-
 }
+
 .aboutme{
     width: 500px;
 }
