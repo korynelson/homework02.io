@@ -2,6 +2,9 @@
 
 Build a personal portfolio that is responsive.  Work towards a mobile first design
 
+LINK:
+https://korynelson.github.io/responsivePortfolio/
+
 ![Image of Launched Website Header](/assets/images/websitePhoto1.PNG)
 
 
